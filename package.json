@@ -1,0 +1,19 @@
+{
+  "name": "topworkshop-blockchain",
+  "version": "0.0.0",
+  "description": "A simple blockchain implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zweer/TOPWorkshop-Blockchain.git"
+  },
+  "author": "Niccolò Olivieri <niccolo@olivieriachille.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zweer/TOPWorkshop-Blockchain/issues"
+  },
+  "homepage": "https://github.com/Zweer/TOPWorkshop-Blockchain#readme"
+}
